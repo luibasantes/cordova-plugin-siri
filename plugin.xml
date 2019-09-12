@@ -5,6 +5,8 @@
 
   <name>Siri</name>
 
+  <dependency id="cordova-plugin-siri-shortcuts" version="0.0.9"/>
+  
   <engines>
     <engine name="cordova" version=">=3.4.0"/>
   </engines>

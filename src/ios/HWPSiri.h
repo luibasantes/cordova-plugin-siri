@@ -1,6 +1,10 @@
 #import <Cordova/CDV.h>
-
-@interface HWPSiri : CDVPlugin
+#import <Intents/Intents.h>
+//#import <Intents/INPreferences.h>
+@interface HWPSiri : CDVPlugin{
+    // Declare retValue
+    BOOL retValue;
+}
 
 - (void) greet:(CDVInvokedUrlCommand*)command;
     
