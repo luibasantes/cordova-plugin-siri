@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-siri",
+  "version": "0.1.0",
+  "description": "A cordova plugin for using SIRIKIT",
+  "cordova": {
+    "id": "cordova-plugin-siri",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luibasantes/cordova-plugin-siri.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "siri",
+    "ecosystem:cordova"
+  ],
+  "author": "Luibasantes",
+  "license": "Apache-2",
+  "bugs": {
+    "url": "https://github.com/luibasantes/cordova-plugin-siri/issues"
+  },
+  "homepage": "https://github.com/luibasantes/cordova-plugin-siri#readme"
+}
